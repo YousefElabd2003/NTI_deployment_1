@@ -1,6 +1,5 @@
 import numpy as np
 import pandas 
-def helloworld(x):
+def helloworld(x=10):
     print(x)
-helloworld(2)
 print("It's working")
